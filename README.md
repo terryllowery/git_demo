@@ -1,5 +1,7 @@
 # README
-this is a test
+> And more feature branch tests  
+
+this is a test and more testing from new feature
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
